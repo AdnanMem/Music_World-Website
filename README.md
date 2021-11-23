@@ -4,5 +4,5 @@
 Simple React website.
 
 ## Usage
-Clone the app 
+Clone the app.
 Run 'npm start' in your terminal. 
