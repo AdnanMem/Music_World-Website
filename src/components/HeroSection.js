@@ -1,6 +1,6 @@
 import React from "react";
 import "./HeroSection.css";
-import video from "../images and videos/hero-video.mp4";
+import video from "../video/hero-video.mp4";
 
 const HeroSection = ({ showBurger }) => {
   return (
