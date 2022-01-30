@@ -65,7 +65,7 @@ export const Navbar = ({
                 style={{
                   textDecoration: "none",
                   color: "white",
-                  fontSize: "30px",
+                  fontSize: "25px",
                 }}
                 className="nav-links"
                 onClick={closeMenu}
@@ -79,7 +79,7 @@ export const Navbar = ({
                 style={{
                   textDecoration: "none",
                   color: "white",
-                  fontSize: "30px",
+                  fontSize: "25px",
                 }}
                 className="nav-links"
                 onClick={closeMenu}
@@ -93,7 +93,7 @@ export const Navbar = ({
                 style={{
                   textDecoration: "none",
                   color: "white",
-                  fontSize: "30px",
+                  fontSize: "25px",
                 }}
                 className="nav-links"
                 onClick={closeMenu}
@@ -107,7 +107,7 @@ export const Navbar = ({
                 style={{
                   textDecoration: "none",
                   color: "white",
-                  fontSize: "30px",
+                  fontSize: "25px",
                 }}
                 className="nav-links-mobile"
                 onClick={closeMenu}
@@ -119,6 +119,10 @@ export const Navbar = ({
               <button
                 onClick={openModal}
                 className={showBurger ? "hide-btn" : "show-btn"}
+                style={{
+                  fontSize: "18px",
+                  color: "white",
+                }}
               >
                 Sign Up
               </button>
