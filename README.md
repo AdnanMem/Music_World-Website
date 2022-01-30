@@ -1,8 +1,11 @@
 # Website - Music World
 
 ## Description
-Simple React website.
+
+A simple React website.
 
 ## Usage
+
 Clone the app.
-Run 'npm start' in your terminal. 
+Run 'npm install'.
+Run 'npm start' in your terminal.
