@@ -108,6 +108,18 @@
     width: 350px;
     padding-right: 20px;
   }
+
+  .date {
+    font-size: 15px;
+  }
+
+  .article-content h1 {
+    font-size: 25px;
+  }
+
+  .text {
+    font-size: 15px;
+  }
 }
 
 @media screen and (min-width: 1500px) {

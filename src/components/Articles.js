@@ -15,7 +15,7 @@ const Articles = ({ articles }) => {
               <>
                 <div className="article-div" key={id}>
                   <div className="article-content">
-                    <p>{date}</p>
+                    <p className="date">{date}</p>
                     <h1>{title}</h1>
                     <p className="text">{content}</p>
                   </div>
